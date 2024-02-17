@@ -3,5 +3,7 @@ GeoForecast is a sleek and user-friendly weather app powered by OpenWeatherMap i
 This project was made for education purpose.
 
 Use the following commands in terminal to compile and run the program respectively:
-javac -cp json.jar WeatherApp.java
-java -cp .;json.jar WeatherApp
+
+javac -cp json.jar app.java
+
+java -cp .;json.jar app
